@@ -1,6 +1,7 @@
 # fastFMM: Fast Functional Mixed Models using Fast Univariate Inference (FUI)
 
 [![](http://cranlogs.r-pkg.org/badges/fastFMM)](https://CRAN.R-project.org/package=fastFMM)
+[![](https://cranlogs.r-pkg.org/badges/grand-total/fastFMM)](https://CRAN.R-project.org/package=fastFMM)
 
 ## Repository Description
 
